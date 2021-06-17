@@ -1,6 +1,24 @@
-# jfwi-stylesheet
+# Iridium.CSS
 
-The css sheet built originally for jfwi (justfuckingwriteit) and now used across many of my projects.
+A tiny CSS sheet just to get stuff done.
+
+Functional, lightweight, and quick to implement.
+
+## Use in your project
+
+Download the iridium.css file from this repo or git clone the repo.
+
+In your head, add:
+
+```html
+<head>
+  ...
+  <link rel="stylesheet" type="text/css" href="/link/to/iridium.css">
+  ...
+</head>
+```
+
+replacing /link/to/ with your css/assets folder path.
 
 ## Credits
 
