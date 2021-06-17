@@ -26,4 +26,4 @@ replacing /link/to/ with your css/assets folder path.
 
 ---
 
-Copyright 2020 Aaron Duce
+Copyright 2021 Aaron Duce | Under the MIT License
