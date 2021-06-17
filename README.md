@@ -4,6 +4,8 @@ A tiny CSS sheet just to get stuff done.
 
 Functional, lightweight, and quick to implement.
 
+Just 1.03KB minified.
+
 ## Use in your project
 
 Download the iridium.css file from this repo or git clone the repo.
